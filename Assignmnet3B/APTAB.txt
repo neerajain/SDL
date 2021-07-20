@@ -1,0 +1,18 @@
+APTAB (TWO)
+1. T
+2. 7
+3. DREG
+
+
+APTAB (ONE)
+1. T
+2. 9
+3. AREG
+
+
+APTAB (ONE)
+1. O
+2. 9
+3. CREG
+
+
